@@ -29,11 +29,11 @@ get_header(); ?>
             </li>
           </ul>
           <div class="promotion-border-box">
-              <h3>LIVSSTILSENDRING<br>PÅ NETT</h3>
+              <h3>LIVSSTILSENDRING<br>PÃ… NETT</h3>
               <p class="price-from">KUN 349,-</p>
           </div>
           <div class="text-center">
-            <a href="#bli-medlem" class="btn btn--xl wow flipInY" style="border-radius: 0; margin-top: 2em; margin-right: 0; width: 250px; font-weight: 400; padding: 0.7em 1.5em 0.6em 1.5em;">PRØV GRATIS</a>
+            <a href="#bli-medlem" class="btn btn--xl wow flipInY" style="border-radius: 0; margin-top: 2em; margin-right: 0; width: 250px; font-weight: 400; padding: 0.7em 1.5em 0.6em 1.5em;">PRÃ˜V GRATIS</a>
           </div>
         </div>
       </div>
@@ -60,7 +60,7 @@ get_header(); ?>
       <div class="promo-bg">
         <div class="promo-bg__content flex flex-column items-center justify-center">
           <svg><use xlink:href="#logo"></use></svg>
-          <p>VI GJØR TRENINGEN <br> GJENNOMFØRBAR</p>
+          <p>VI GJÃ˜R TRENINGEN <br> GJENNOMFÃ˜RBAR</p>
         </div>
       </div>
     </div>
@@ -77,8 +77,8 @@ get_header(); ?>
               <img src="<?php echo get_template_directory_uri(); ?>/img/layout/mockup.png" class="img-responsive">
             </div>
             <div class="col-right">
-              <h3>DET DU BEHØVER FOR EN<br> VARIG OG GJENNOMFØRBAR<br> LIVSSTILSENDRING!</h3>
-              <a href="#bli-medlem" class="btn btn-bordered">PRØV GRATIS</a>
+              <h3>DET DU BEHÃ˜VER FOR EN<br> VARIG OG GJENNOMFÃ˜RBAR<br> LIVSSTILSENDRING!</h3>
+              <a href="#bli-medlem" class="btn btn-bordered">PRÃ˜V GRATIS</a>
             </div>
           </div>
         </div>
@@ -92,7 +92,7 @@ get_header(); ?>
     <div class="container">
       <div class="row">
         <div class="col-sm-12">
-          <h2 class="section-header text-center">DETTE FA°R DU</h2>
+          <h2 class="section-header text-center">DETTE FAÂ°R DU</h2>
           <div class="boxes-wrapper">
             <div class="box wow fadeInUp">
               <img src="<?php echo get_template_directory_uri(); ?>/img/layout/dette-icons/icon-1.png" class="img-responsive" style="width: 100px;">
@@ -108,11 +108,11 @@ get_header(); ?>
             </div>
             <div class="box wow fadeInUp">
               <img src="<?php echo get_template_directory_uri(); ?>/img/layout/dette-icons/icon-4.png" class="img-responsive" style="width: 60px; margin-top: -30px;">
-              <h4>MAGASIN HVER MA°NED!</h4>
+              <h4>MAGASIN HVER MAÂ°NED!</h4>
             </div>
             <div class="box wow fadeInUp">
               <img src="<?php echo get_template_directory_uri(); ?>/img/layout/dette-icons/icon-5.png" class="img-responsive" style="width: 75px;">
-              <h4>OPPFØLGING<br> VIA FORUM</h4>
+              <h4>OPPFÃ˜LGING<br> VIA FORUM</h4>
             </div>
             <div class="box wow fadeInUp">
               <img src="<?php echo get_template_directory_uri(); ?>/img/layout/dette-icons/icon-6.png" class="img-responsive" style="width: 60px;">
@@ -161,7 +161,7 @@ get_header(); ?>
           <div class="col-sm-7">
             <a id="rss-one" href="#" class="blogg-item flex items-center wow zoomIn" style="background-image: url('<?php echo get_template_directory_uri(); ?>/img/layout/blogg-placeholder.jpg');">
               <div class="blogg-item__content">
-                <h4>MITT ALLER BESTE TIPS FOR A° KOMME I GANG MED TRENINGEN!</h4>
+                <h4>MITT ALLER BESTE TIPS FOR AÂ° KOMME I GANG MED TRENINGEN!</h4>
                 <p>6.NOVEMBER 2016</p>
               </div>
             </a>
@@ -169,7 +169,7 @@ get_header(); ?>
           <div class="col-sm-5">
             <a id="rss-two" href="#" class="blogg-item flex items-center wow zoomIn" style="background-image: url('<?php echo get_template_directory_uri(); ?>/img/layout/blogg-placeholder.jpg');">
               <div class="blogg-item__content">
-                <h4>MITT ALLER BESTE TIPS FOR A° KOMME I GANG MED TRENINGEN!</h4>
+                <h4>MITT ALLER BESTE TIPS FOR AÂ° KOMME I GANG MED TRENINGEN!</h4>
                 <p>6.NOVEMBER 2016</p>
               </div>
             </a>
